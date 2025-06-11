@@ -51,6 +51,7 @@ python main.py
 - Répartition des types de contrat
 - Évolution des offres par date de publication
 - Top 10 des localisations d'offres
+- Nombre d’offres par date
 
 ---
 
